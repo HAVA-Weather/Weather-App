@@ -1,0 +1,23 @@
+flutter_launcher_icons:
+  image_path: "assets/images/HAVA APP ICON.jpg"
+  
+  android: "launcher_icon"
+  min_sdk_android: 21
+  
+  ios: true
+  remove_alpha_channel_ios: true
+  
+  web:
+    generate: true
+    image_path: "assets/images/HAVA APP ICON.jpg"
+    background_color: "#ffffff"  # Replace with your preferred background color
+    theme_color: "#000000"       # Replace with your preferred theme color
+  
+  windows:
+    generate: true
+    image_path: "assets/images/HAVA APP ICON.jpg"
+    icon_size: 48
+  
+  macos:
+    generate: true
+    image_path: "assets/images/HAVA APP ICON.jpg"
